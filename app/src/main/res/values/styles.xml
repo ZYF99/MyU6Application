@@ -1,0 +1,9 @@
+<resources>
+        <!-- 主Activiy的导航 -->
+        <string-array name="example_info_thread">
+            <item name="anr_test">触发ANR</item>
+            <item name="handler_test">Handler多线程案例</item>
+            <item name="async_task_test">AsyncTask异步任务案例</item>
+        </string-array>
+    </resources>
+
